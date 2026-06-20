@@ -3,7 +3,7 @@
 Building my journey from a CSE student to an AI Engineer.
 
 🤖 AI & Machine Learning
-💻 Java • DSA • Backend
+💻 Java • DSA 
 🏋️ Fitness & Discipline
 🚀 Building ShaVex
 
