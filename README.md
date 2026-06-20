@@ -1,6 +1,6 @@
 # Hey, I'm Shashwat 👋
 
-Building my journey from a CSE student to an AI Engineer.
+Documenting the journey from a CSE student to an AI Engineer.
 
 🤖 AI & Machine Learning
 💻 Java • DSA 
